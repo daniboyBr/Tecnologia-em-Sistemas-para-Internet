@@ -15,5 +15,3 @@ while i <= 10:
     i+=1
 print("Quantidade de numeros impares: {}".format(impares))
 print("Quantidade de numeros impares: {}".format(pares))
-
-    
